@@ -19,7 +19,7 @@
             android:id="@+id/btn_settings"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Ρύθμιση στοιχείων" />
+            android:text="Ρυθμιση στοιχειων" />
 
         <Button
             android:id="@+id/button_preview"
