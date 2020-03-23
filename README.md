@@ -1,6 +1,6 @@
 App to send messages to 13033 during the covid-19 incident.
 
-Download and install forma_gov_sms.apk to your android phone. The mininum required API level 28 -- Android 9.
+Download and install forma_gov_sms.apk to your android phone. The mininum required API level has been set to 15, but it has been tested on Android >= 6 -- API level 23.
 
 ## Select reason
 
